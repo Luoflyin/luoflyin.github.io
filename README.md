@@ -10,5 +10,4 @@
 
 ## 我的网站
 
-> * [Cloud](https://0000.ink)
 > * [Ended](https://ended.cn)
